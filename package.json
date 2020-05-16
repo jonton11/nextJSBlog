@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Simple blog built with Next; deployed to Netlify",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jonton",
+  "license": "ISC",
+  "keywords": [
+    "blog",
+    "nextjs",
+    "netlify"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jonton11/nextJSBlog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonton11/nextJSBlog/issues"
+  },
+  "homepage": "https://github.com/jonton11/nextJSBlog#readme"
+}
